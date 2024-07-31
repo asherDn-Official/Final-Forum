@@ -1,0 +1,80 @@
+.divfbb34344 {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.maindi4i34iu4i {
+  background-color: #fff;
+  width: 600px;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.divbdvvdv {
+  background-color: red;
+}
+
+.hrline23232 {
+  margin-top: 14px;
+  border: 1px solid #c6c6c6;
+  margin-bottom: 15px;
+}
+
+.reportnamne344 {
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 30px;
+  color: #000000;
+  text-align: center;
+}
+.idenetify3434 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  color: #000000;
+  text-align: center;
+  margin-bottom: 13px;
+}
+
+.msnj2323233 {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.kjduu34uj3434 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 22.5px;
+  color: #000000;
+  margin-left: 7px;
+}
+
+.NSKJSJKDJ23424 {
+  display: flex;
+  justify-content: center;
+  margin-top: 35px;
+}
+
+.nbshwdwenene {
+  width: 80px;
+  height: 38px;
+  background-color: #2200ff;
+  border: none;
+  border-radius: 8px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  color: #fff;
+}
+
+.Closebuttondive33 {
+  display: flex;
+  justify-content: space-between;
+}
